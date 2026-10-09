@@ -1,0 +1,12 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Исходные данные
+raw/
+
+# Временные файлы
+.Renviron
+*.Rproj.user

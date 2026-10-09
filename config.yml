@@ -1,0 +1,10 @@
+# Конфигурация проекта SberIndex Municipal Networks
+# Конкурс СберИндекс — 2026
+
+network:
+  k: 5
+  sensitivity_k: [3, 5, 7]
+
+health:
+  min_gap_pp: 0.4
+  min_months: 20
