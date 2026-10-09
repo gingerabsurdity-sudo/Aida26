@@ -1,6 +1,3 @@
-# Конфигурация проекта SberIndex Municipal Networks
-# Конкурс СберИндекс — 2026
-
 network:
   k: 5
   sensitivity_k: [3, 5, 7]
